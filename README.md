@@ -1,10 +1,11 @@
 # React Hook Form Demo
 
 
-### `Steps to run the app`
+### Steps to run the app
 
-1. npm i
-2. npm start
+
+1. `npm i`
+2. `npm start`
 
 ## Learn More about react-hook-form
 
